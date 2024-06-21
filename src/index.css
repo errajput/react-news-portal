@@ -1,13 +1,17 @@
 body {
-  margin: 0;
-  font-family: sans-serif;
+    margin: 0;
+    font-family: sans-serif;
 }
 
-.container {
-  max-width: 40rem;
-  margin: auto;
+.articles-container {
+    max-width: 40rem;
+    margin: auto;
+}
+
+.article-card {
+    padding: 1rem;
 }
 
 img {
-  width: 10rem;
+    width: 10rem;
 }
